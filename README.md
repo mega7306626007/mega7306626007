@@ -27,16 +27,7 @@
 
 ---
 
-### ⚡ Why you see only 5 on my profile (and the fix)
 
-GitHub's Overview shows ~6 Popular repos (auto-picked, stars-based — mine are all new so it picks randomly, even junk like `New-folder--4-`) plus up to 6 Pins **you choose**. Nothing I push can force pins via API — that's a manual click.
-
-**Do this once (30 sec):** Profile → `Customize your pins` → check these 6:
-`PesaFlow` · `Parlons` · `transcriber` · `chatbot_modules` · `global-digest` · `the-heart-4`
-
-This README below then shows all **10 best** in one place, so every visitor sees the real work regardless.
-
----
 
 ### 🏆 My 10 best — ranked
 
