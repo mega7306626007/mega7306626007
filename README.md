@@ -36,8 +36,8 @@
 | 1 | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Student finance × adaptive intelligence. Models campus reality, reasons, recommends. Offline-first. | Kotlin |
 | 2 | [**Parlons**](https://github.com/mega7306626007/Parlons) | French for Kenyans — 65 lessons, ~860 phrases, Simba chat, SRS, 13 exercise types. Zero backend. | Kotlin |
 | 3 | [**transcriber**](https://github.com/mega7306626007/transcriber) | Local Whisper transcriber — synced player, SRT editor, Kiswahili + fine-tune pipeline. | Python |
-| 4 | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) · [live](https://chatbot-modules.vercel.app) | 14-module offline brain: memory, intent, sklearn, neural nets, LLM-hybrid. | Python |
-| 5 | [**chatbot-web**](https://github.com/mega7306626007/chatbot-web) · [live](https://chatbot-web-flame.vercel.app) | Flask web face for the chatbot — chat UI, deploy-ready. | Python · Flask |
+| 4 | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | 14-module offline brain: memory, intent, sklearn, neural nets, LLM-hybrid. | Python |
+| 5 | [**chatbot-web**](https://github.com/mega7306626007/chatbot-web) | Flask web face for the chatbot — chat UI, deploy-ready. | Python · Flask |
 | 6 | [**global-digest**](https://github.com/mega7306626007/global-digest) | Self-building daily newspaper — ~20 stories, Actions → Pages. | Python |
 | 7 | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Mwesh poetry + in-browser neural continuation. Art that thinks. | JavaScript |
 | 8 | [**global-digest-mvp**](https://github.com/mega7306626007/global-digest-mvp) | Digest MVP builder — `build_site.py` → `dist/` + `latest.json`. | HTML · Python |
@@ -54,7 +54,7 @@
 |---|---|---|
 | 💼 Recruiter | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Flagship engineering + product thinking |
 | 📱 Mobile dev | [**Parlons**](https://github.com/mega7306626007/Parlons) | Offline Kotlin, SRS, gamification done right |
-| 🧠 AI engineer | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) · [demo](https://chatbot-modules.vercel.app) | Full offline conversational stack |
+| 🧠 AI engineer | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | Full offline conversational stack |
 | 🎙️ Speech / Africa-NLP | [**transcriber**](https://github.com/mega7306626007/transcriber) | Kiswahili, SRT, fine-tuning, fully local |
 | 🎨 Curious human | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Poetry that writes back |
 
@@ -85,7 +85,7 @@ Student finance × adaptive intelligence. Irregular income, campus pressure, rea
 ### 🎙️ #3 Transcriber · 🧠 #4–5 Chatbot · 📰 #6 Digest · ❤️ #7–9 Heart
 
 - [**transcriber**](https://github.com/mega7306626007/transcriber): synced player, SRT editor, Whisper local, Kiswahili + fine-tune. Audio never leaves the machine.
-- [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) + [**chatbot-web**](https://github.com/mega7306626007/chatbot-web): deterministic core + neural + LLM-hybrid, with live demos. Offline always.
+- [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) + [**chatbot-web**](https://github.com/mega7306626007/chatbot-web): deterministic core + neural + LLM-hybrid. Offline always.
 - [**global-digest**](https://github.com/mega7306626007/global-digest) + [**mvp**](https://github.com/mega7306626007/global-digest-mvp): a newspaper with no newsroom.
 - [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) + [**the-heart-2**](https://github.com/mega7306626007/the-heart-2): Mwesh poetry × neural continuation.
 
@@ -154,7 +154,7 @@ Raw data → Structured understanding → Personal context → Pattern → Reaso
 <p align="center">
   <a href="https://github.com/mega7306626007?tab=repositories"><img src="https://img.shields.io/badge/Explore_All-Repositories-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/mega7306626007/PesaFlow"><img src="https://img.shields.io/badge/⭐_Start-PesaFlow-ff5e6c?style=for-the-badge" /></a>
-  <a href="https://chatbot-modules.vercel.app"><img src="https://img.shields.io/badge/🤖_Try_Live-Chatbot-238636?style=for-the-badge" /></a>
+  <a href="https://github.com/mega7306626007/the-heart-4"><img src="https://img.shields.io/badge/❤️_Read-The_Heart-8957e5?style=for-the-badge" /></a>
 </p>
 
 > Open to internships, research, collaborations — especially **AI × mobile × African context**.
