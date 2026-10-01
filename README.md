@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emmanuel%20Mwendwa%20Mayoli&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Where%20Circuits%20Meet%20Cognition%20%E2%80%A2%20Nairobi%20%E2%86%92%20World&descAlignY=58&descSize=17" />
 
 <p align="center">
-  <a href="https://github.com/mega7306626007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Electrical+Engineering+%C3%97+AI+%C3%97+Software;I+engineer+understanding%2C+not+just+code;My+10+best+builds+%7C+offline-first+%7C+local+intelligence;EN+%C3%97+Kiswahili+%C3%97+Sheng+%C3%97+French" alt="Typing SVG" /></a>
+  <a href="https://github.com/mega7306626007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Electrical+Engineering+%C3%97+AI+%C3%97+Software;I+engineer+understanding%2C+not+just+code;10+shipped+builds+%7C+offline-first+%7C+local+intelligence;EN+%C3%97+Kiswahili+%C3%97+Sheng+%C3%97+French" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/10-BEST_BUILDS-ff5e6c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/10-SHIPPED_BUILDS-ff5e6c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2-Android_Flagships-7F52FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/5-AI_Systems-58a6ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Offline--First-Always-238636?style=for-the-badge" />
@@ -27,24 +27,19 @@
 
 ---
 
+### ⚡ The 15-second version
 
+I'm **Emmanuel (Mwesh)** — I treat circuits, code and cognition as **one engineering problem**.
 
-### 🏆 My 10 best — ranked
+> **EEE** gives me systems thinking. **Software** lets me build. **AI** makes it adaptive.
 
-| # | Project | What it is | Stack |
-|---|---|---|---|
-| 1 | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Student finance × adaptive intelligence. Models campus reality, reasons, recommends. Offline-first. | Kotlin |
-| 2 | [**Parlons**](https://github.com/mega7306626007/Parlons) | French for Kenyans — 65 lessons, ~860 phrases, Simba chat, SRS, 13 exercise types. Zero backend. | Kotlin |
-| 3 | [**transcriber**](https://github.com/mega7306626007/transcriber) | Local Whisper transcriber — synced player, SRT editor, Kiswahili + fine-tune pipeline. | Python |
-| 4 | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | 14-module offline brain: memory, intent, sklearn, neural nets, LLM-hybrid. | Python |
-| 5 | [**chatbot-web**](https://github.com/mega7306626007/chatbot-web) | Flask web face for the chatbot — chat UI, deploy-ready. | Python · Flask |
-| 6 | [**global-digest**](https://github.com/mega7306626007/global-digest) | Self-building daily newspaper — ~20 stories, Actions → Pages. | Python |
-| 7 | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Mwesh poetry + in-browser neural continuation. Art that thinks. | JavaScript |
-| 8 | [**global-digest-mvp**](https://github.com/mega7306626007/global-digest-mvp) | Digest MVP builder — `build_site.py` → `dist/` + `latest.json`. | HTML · Python |
-| 9 | [**the-heart-2**](https://github.com/mega7306626007/the-heart-2) | Heart v2 — poetry web + voice prompts, JS/Python bridge. | JavaScript |
-| 10 | **AI backend prototype** (`New-folder--5-`, private) | Intent classifier, mini-LLM, memory DB, image-gen + web UI. *Make public + rename → instant top-10.* | Python |
+I don't ship tutorial clones. I ship systems: finance that gets campus life, French that speaks Sheng, transcription that hears Kiswahili, news that builds itself daily, poetry that thinks back.
 
-> 2 more private gems (`pychat` — 14-module conversational core) can join the list once made public. 3 sandboxes (`New-folder--4-`, `automatic-spoon`, `global-digest2`) stay off the list — they're the workbench, not the shelf.
+```text
+Raw data → Structured understanding → Personal context → Pattern → Reasoning → Adaptive response
+```
+
+That pipeline lives in *everything* below.
 
 ---
 
@@ -57,6 +52,25 @@
 | 🧠 AI engineer | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | Full offline conversational stack |
 | 🎙️ Speech / Africa-NLP | [**transcriber**](https://github.com/mega7306626007/transcriber) | Kiswahili, SRT, fine-tuning, fully local |
 | 🎨 Curious human | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Poetry that writes back |
+
+---
+
+### 🏆 My 10 best — ranked
+
+| # | Project | What it is | Stack |
+|---|---|---|---|
+| 1 | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Student finance × adaptive intelligence. Models campus reality, reasons, recommends. Offline-first. | Kotlin |
+| 2 | [**Parlons**](https://github.com/mega7306626007/Parlons) | French for Kenyans — 65 lessons, ~860 phrases, Simba chat, SRS, 13 exercise types. Zero backend. | Kotlin |
+| 3 | [**transcriber**](https://github.com/mega7306626007/transcriber) | Local Whisper transcriber — synced player, SRT editor, Kiswahili + fine-tune pipeline. | Python |
+| 4 | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | 14-module offline brain: memory, intent, sklearn, neural nets, LLM-hybrid. | Python |
+| 5 | [**chatbot-web**](https://github.com/mega7306626007/chatbot-web) | Flask web face for the chatbot — chat UI, deploy-ready. | Python · Flask |
+| 6 | [**global-digest**](https://github.com/mega7306626007/global-digest) | Self-building daily newspaper — 150 stories, Actions → Pages. | Python |
+| 7 | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Mwesh poetry + in-browser neural continuation. Art that thinks. | JavaScript |
+| 8 | [**global-digest-mvp**](https://github.com/mega7306626007/global-digest-mvp) | Digest MVP builder — `build_site.py` → `dist/` + `latest.json`. | HTML · Python |
+| 9 | [**the-heart-2**](https://github.com/mega7306626007/the-heart-2) | Heart v2 — poetry web + voice prompts, JS/Python bridge. | JavaScript |
+| 10 | **AI backend prototype** (`New-folder--5-`, private) | Intent classifier, mini-LLM, memory DB, image-gen + web UI. *Make public + rename → instant top-10.* | Python |
+
+> 2 more private gems (`pychat` — 14-module conversational core) can join the list once made public. 3 sandboxes (`New-folder--4-`, `automatic-spoon`, `global-digest2`) stay off the list — they're the workbench, not the shelf.
 
 ---
 
