@@ -47,9 +47,11 @@ That pipeline lives in *everything* below.
 
 | You are... | Open this | Why |
 |---|---|---|
+| 🌍 Anyone | [**Portfolio site**](https://mega7306626007.github.io/portfolio/) | Warm editorial tour of all the work |
 | 💼 Recruiter | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Flagship engineering + product thinking |
+| 🤖 Voice / Android | [**Jarvis (mwesh)**](https://github.com/mega7306626007/mwesh) | On-device voice assistant — ONNX, Room, EN×SW×FR |
 | 📱 Mobile dev | [**Parlons**](https://github.com/mega7306626007/Parlons) | Offline Kotlin, SRS, gamification done right |
-| 🧠 AI engineer | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | Full offline conversational stack |
+| 🧠 AI engineer | [**PyChat**](https://github.com/mega7306626007/pychat) | Full offline conversational stack · [**live →**](https://pychat-hbih.onrender.com/) |
 | 🎙️ Speech / Africa-NLP | [**transcriber**](https://github.com/mega7306626007/transcriber) | Kiswahili, SRT, fine-tuning, fully local |
 | 🎨 Curious human | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Poetry that writes back |
 
@@ -59,22 +61,32 @@ That pipeline lives in *everything* below.
 
 | # | Project | What it is | Stack |
 |---|---|---|---|
-| 1 | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Student finance × adaptive intelligence. Models campus reality, reasons, recommends. Offline-first. | Kotlin |
-| 2 | [**Parlons**](https://github.com/mega7306626007/Parlons) | French for Kenyans — 65 lessons, ~860 phrases, Simba chat, SRS, 13 exercise types. Zero backend. | Kotlin |
-| 3 | [**transcriber**](https://github.com/mega7306626007/transcriber) | Local Whisper transcriber — synced player, SRT editor, Kiswahili + fine-tune pipeline. | Python |
-| 4 | [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) | 14-module offline brain: memory, intent, sklearn, neural nets, LLM-hybrid. | Python |
-| 5 | [**chatbot-web**](https://github.com/mega7306626007/chatbot-web) | Flask web face for the chatbot — chat UI, deploy-ready. | Python · Flask |
-| 6 | [**global-digest**](https://github.com/mega7306626007/global-digest) | Self-building daily newspaper — 150 stories, Actions → Pages. | Python |
-| 7 | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Mwesh poetry + in-browser neural continuation. Art that thinks. | JavaScript |
-| 8 | [**global-digest-mvp**](https://github.com/mega7306626007/global-digest-mvp) | Digest MVP builder — `build_site.py` → `dist/` + `latest.json`. | HTML · Python |
-| 9 | [**the-heart-2**](https://github.com/mega7306626007/the-heart-2) | Heart v2 — poetry web + voice prompts, JS/Python bridge. | JavaScript |
-| 10 | **AI backend prototype** (`New-folder--5-`, private) | Intent classifier, mini-LLM, memory DB, image-gen + web UI. *Make public + rename → instant top-10.* | Python |
+| 1 | [**Jarvis (mwesh)**](https://github.com/mega7306626007/mwesh) | On-device voice assistant — ONNX inference, Room memory, command router, translator. 80+ files, 100+ tests. EN × SW × FR. | Kotlin |
+| 2 | [**PesaFlow**](https://github.com/mega7306626007/PesaFlow) | Student finance × adaptive intelligence. Models campus reality, reasons, recommends. Offline-first. | Kotlin |
+| 3 | [**Parlons**](https://github.com/mega7306626007/Parlons) | French for Kenyans — 65 lessons, ~860 phrases, Simba chat, SRS, 13 exercise types. Zero backend. | Kotlin |
+| 4 | [**PyChat**](https://github.com/mega7306626007/pychat) | Advanced offline chatbot — memory, intent, neural nets, LLM-hybrid. [**Live demo →**](https://pychat-hbih.onrender.com/) | Python |
+| 5 | [**transcriber**](https://github.com/mega7306626007/transcriber) | Local Whisper transcriber — synced player, SRT editor, Kiswahili + fine-tune pipeline. | Python |
+| 6 | [**calendar-rescheduler**](https://github.com/mega7306626007/calendar-rescheduler) | Push · overfill · undo scheduling OS on Google Calendar. Runs my life daily. | Apps Script |
+| 7 | [**chatbot-web**](https://github.com/mega7306626007/chatbot-web) | Flask web face for the chatbot — chat UI, deploy-ready. | Python · Flask |
+| 8 | [**global-digest**](https://github.com/mega7306626007/global-digest) | Self-building daily newspaper — 150 stories, Actions → Pages. | Python |
+| 9 | [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) | Mwesh poetry + in-browser neural continuation. Art that thinks. | JavaScript |
+| 10 | [**the-heart-2**](https://github.com/mega7306626007/the-heart-2) | Heart v2 — poetry web + voice prompts, JS/Python bridge. | JavaScript |
 
-> 2 more private gems (`pychat` — 14-module conversational core) can join the list once made public. 3 sandboxes (`New-folder--4-`, `automatic-spoon`, `global-digest2`) stay off the list — they're the workbench, not the shelf.
+> `pychat` is public now with a live Render deployment 🎉. Sandboxes (`New-folder--4-`, `automatic-spoon`, `global-digest2`) stay off the list — they're the workbench, not the shelf.
 
 ---
 
-### 🚀 #1 PesaFlow — flagship
+### 🤖 #1 Jarvis (Mwesh) — voice, on-device
+
+<p align="center">
+  <a href="https://github.com/mega7306626007/mwesh"><img src="https://img.shields.io/badge/◉_Jarvis-VOICE_01-238636?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/ONNX-Room_on--device-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+Android voice assistant — on-device ONNX inference, Room memory (alarms, notes, reminders, conversations), command router (time, calculator, jokes, timers), speech + TTS, translator, EN × SW × FR corpus. 80+ source files, 100+ tests.
+➡️ [**Code →**](https://github.com/mega7306626007/mwesh)
+
+### 🚀 #2 PesaFlow — flagship
 
 <p align="center">
   <a href="https://github.com/mega7306626007/PesaFlow"><img src="https://img.shields.io/badge/◉_PesaFlow-FLAGSHIP_01-ff5e6c?style=for-the-badge" /></a>
@@ -86,7 +98,7 @@ Student finance × adaptive intelligence. Irregular income, campus pressure, rea
 
 > Understand the money. Understand the context. Then make it useful.
 
-### 🇫🇷 #2 Parlons — flagship
+### 🇫🇷 #3 Parlons — flagship
 
 <p align="center">
   <a href="https://github.com/mega7306626007/Parlons"><img src="https://img.shields.io/badge/◉_Parlons-FLAGSHIP_02-1f6feb?style=for-the-badge" /></a>
@@ -96,11 +108,13 @@ Student finance × adaptive intelligence. Irregular income, campus pressure, rea
 6 units · 13 exercise types · Simba chat (12 scenarios, fuzzy correction) · Leitner SRS · XP/gems/streaks/18 badges. EN × SW × Sheng.
 ➡️ [**Code →**](https://github.com/mega7306626007/Parlons)
 
-### 🎙️ #3 Transcriber · 🧠 #4–5 Chatbot · 📰 #6 Digest · ❤️ #7–9 Heart
+### 🎙️ Transcriber · 🧠 PyChat · 📰 Digest · ❤️ Heart · 📅 Scheduler
 
+- [**Jarvis (mwesh)**](https://github.com/mega7306626007/mwesh): voice in, intent out — ONNX on-device, Room memory, EN × SW × FR.
 - [**transcriber**](https://github.com/mega7306626007/transcriber): synced player, SRT editor, Whisper local, Kiswahili + fine-tune. Audio never leaves the machine.
-- [**chatbot_modules**](https://github.com/mega7306626007/chatbot_modules) + [**chatbot-web**](https://github.com/mega7306626007/chatbot-web): deterministic core + neural + LLM-hybrid. Offline always.
-- [**global-digest**](https://github.com/mega7306626007/global-digest) + [**mvp**](https://github.com/mega7306626007/global-digest-mvp): a newspaper with no newsroom.
+- [**PyChat**](https://github.com/mega7306626007/pychat) (+ [chatbot_modules](https://github.com/mega7306626007/chatbot_modules), [chatbot-web](https://github.com/mega7306626007/chatbot-web)): deterministic core + neural + LLM-hybrid, offline always. [**Live demo →**](https://pychat-hbih.onrender.com/)
+- [**calendar-rescheduler**](https://github.com/mega7306626007/calendar-rescheduler): push to next free slot, overfill queue, 6h undo — on Google Calendar.
+- [**global-digest**](https://github.com/mega7306626007/global-digest): a newspaper with no newsroom.
 - [**the-heart-4**](https://github.com/mega7306626007/the-heart-4) + [**the-heart-2**](https://github.com/mega7306626007/the-heart-2): Mwesh poetry × neural continuation.
 
 One pipeline runs through all of it:
@@ -159,6 +173,7 @@ Raw data → Structured understanding → Personal context → Pattern → Reaso
 ### 🔭 Right now
 
 - 🔨 PesaFlow → finance that survives the month · 📱 Parlons → Simba + SRS polish · 🎙️ Transcriber → Kiswahili accuracy
+- 🤖 Jarvis (mwesh) → public on GitHub · 💬 PyChat → live on Render · 🌐 [Portfolio site](https://mega7306626007.github.io/portfolio/) → shipped
 - 🌍 Mission: Nairobi-built, world-ready, offline-first AI
 
 ---
@@ -166,9 +181,10 @@ Raw data → Structured understanding → Personal context → Pattern → Reaso
 ### 📫 Let's build
 
 <p align="center">
+  <a href="https://mega7306626007.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-mega7306626007.github.io-1c1811?style=for-the-badge" /></a>
   <a href="https://github.com/mega7306626007?tab=repositories"><img src="https://img.shields.io/badge/Explore_All-Repositories-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/mega7306626007/PesaFlow"><img src="https://img.shields.io/badge/⭐_Start-PesaFlow-ff5e6c?style=for-the-badge" /></a>
-  <a href="https://github.com/mega7306626007/the-heart-4"><img src="https://img.shields.io/badge/❤️_Read-The_Heart-8957e5?style=for-the-badge" /></a>
+  <a href="https://pychat-hbih.onrender.com/"><img src="https://img.shields.io/badge/💬_Try-PyChat_Live-238636?style=for-the-badge" /></a>
 </p>
 
 > Open to internships, research, collaborations — especially **AI × mobile × African context**.
